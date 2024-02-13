@@ -1,0 +1,17 @@
+C:\Users\leo\Desktop\programering\crossform\crossform\bin\Debug\net8.0-windows\crossform.exe
+C:\Users\leo\Desktop\programering\crossform\crossform\bin\Debug\net8.0-windows\crossform.deps.json
+C:\Users\leo\Desktop\programering\crossform\crossform\bin\Debug\net8.0-windows\crossform.runtimeconfig.json
+C:\Users\leo\Desktop\programering\crossform\crossform\bin\Debug\net8.0-windows\crossform.dll
+C:\Users\leo\Desktop\programering\crossform\crossform\bin\Debug\net8.0-windows\crossform.pdb
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.Form1.resources
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.Form2.resources
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.AssemblyInfo.cs
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.dll
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\refint\crossform.dll
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.pdb
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\crossform.genruntimeconfig.cache
+C:\Users\leo\Desktop\programering\crossform\crossform\obj\Debug\net8.0-windows\ref\crossform.dll

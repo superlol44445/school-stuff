@@ -1,0 +1,28 @@
+C:\Users\leo\Desktop\programering\custom list class\bin\Debug\net8.0\custom list class.exe
+C:\Users\leo\Desktop\programering\custom list class\bin\Debug\net8.0\custom list class.deps.json
+C:\Users\leo\Desktop\programering\custom list class\bin\Debug\net8.0\custom list class.runtimeconfig.json
+C:\Users\leo\Desktop\programering\custom list class\bin\Debug\net8.0\custom list class.dll
+C:\Users\leo\Desktop\programering\custom list class\bin\Debug\net8.0\custom list class.pdb
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.AssemblyInfo.cs
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.dll
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\refint\custom list class.dll
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.pdb
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\custom list class.genruntimeconfig.cache
+C:\Users\leo\Desktop\programering\custom list class\obj\Debug\net8.0\ref\custom list class.dll
+D:\Stuff\programing projects\school projects\custom list class\bin\Debug\net8.0\custom list class.exe
+D:\Stuff\programing projects\school projects\custom list class\bin\Debug\net8.0\custom list class.deps.json
+D:\Stuff\programing projects\school projects\custom list class\bin\Debug\net8.0\custom list class.runtimeconfig.json
+D:\Stuff\programing projects\school projects\custom list class\bin\Debug\net8.0\custom list class.dll
+D:\Stuff\programing projects\school projects\custom list class\bin\Debug\net8.0\custom list class.pdb
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.AssemblyInfoInputs.cache
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.AssemblyInfo.cs
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.csproj.CoreCompileInputs.cache
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.dll
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\refint\custom list class.dll
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.pdb
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\custom list class.genruntimeconfig.cache
+D:\Stuff\programing projects\school projects\custom list class\obj\Debug\net8.0\ref\custom list class.dll
