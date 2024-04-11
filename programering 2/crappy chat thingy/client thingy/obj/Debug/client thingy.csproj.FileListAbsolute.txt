@@ -1,0 +1,10 @@
+C:\Users\leo\Desktop\programering\client thingy\bin\Debug\client thingy.exe.config
+C:\Users\leo\Desktop\programering\client thingy\bin\Debug\client thingy.exe
+C:\Users\leo\Desktop\programering\client thingy\bin\Debug\client thingy.pdb
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client thingy.csproj.AssemblyReference.cache
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client_thingy.Form1.resources
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client_thingy.Properties.Resources.resources
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client thingy.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client thingy.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client thingy.exe
+C:\Users\leo\Desktop\programering\client thingy\obj\Debug\client thingy.pdb

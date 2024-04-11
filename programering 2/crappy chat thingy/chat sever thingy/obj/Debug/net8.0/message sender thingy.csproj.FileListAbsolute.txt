@@ -1,0 +1,14 @@
+C:\Users\leo\Desktop\programering\message sender thingy\bin\Debug\net8.0\message sender thingy.exe
+C:\Users\leo\Desktop\programering\message sender thingy\bin\Debug\net8.0\message sender thingy.deps.json
+C:\Users\leo\Desktop\programering\message sender thingy\bin\Debug\net8.0\message sender thingy.runtimeconfig.json
+C:\Users\leo\Desktop\programering\message sender thingy\bin\Debug\net8.0\message sender thingy.dll
+C:\Users\leo\Desktop\programering\message sender thingy\bin\Debug\net8.0\message sender thingy.pdb
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.AssemblyInfo.cs
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.dll
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\refint\message sender thingy.dll
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.pdb
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\message sender thingy.genruntimeconfig.cache
+C:\Users\leo\Desktop\programering\message sender thingy\obj\Debug\net8.0\ref\message sender thingy.dll
